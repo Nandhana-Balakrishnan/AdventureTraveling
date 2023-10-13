@@ -1,0 +1,255 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Travel HTML-5 Template </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+
+		<!-- CSS here -->
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/bootstrap.min.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/owl.carousel.min.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/flaticon.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/slicknav.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/animate.min.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/magnific-popup.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/fontawesome-all.min.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/themify-icons.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/slick.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/nice-select.css">
+            <link rel="stylesheet" href="../Assets/Template/Main/assets/css/style.css">
+            <style>
+                body
+				{
+                    background: url('../Assets/Template/bg1.jpg');
+                }
+            </style>
+   </head>
+
+   <body>
+   <?php
+
+?>
+    <!-- Preloader Start -->
+    <div id="preloader-active">
+        <div class="preloader d-flex align-items-center justify-content-center">
+            <div class="preloader-inner position-relative">
+                <div class="preloader-circle"></div>
+                <div class="preloader-img pere-text">
+                    <img src="../Assets/Template/logo.png" alt="" width="100" height="100">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader Start -->
+    <header>
+        <!-- Header Start -->
+       <div class="header-area">
+            <div class="main-header ">
+                <div class="header-top top-bg d-none d-lg-block">
+                   <div class="container">
+                    <div class="row justify-content-between align-items-center">
+                        <div class="col-lg-8">
+                            <div class="header-info-left">
+                                <ul>                          
+                                    <li>adventurotravelling@gmail.com</li>
+                                    <li>666 569 025077</li>
+                                    <li>broklyn street new york</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="header-info-right f-right">
+                                <ul class="header-social">    
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                   <li> <a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                       </div>
+                   </div>
+                </div>
+               <div class="header-bottom  header-sticky">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <!-- Logo -->
+                            <div class="col-xl-2 col-lg-2 col-md-1">
+                                <div class="logo">
+                                  <a href="index.html"><img src="../Assets/Template/logo.png" alt="" width="100" height="100"></a>
+                                </div>
+                            </div>
+                            <div class="col-xl-10 col-lg-10 col-md-10">
+                                <!-- Main-menu -->
+                                <div class="main-menu f-right d-none d-lg-block">
+                                <nav>               
+                                        <ul id="navigation">                                                                                                                                     
+                                            <li><a href="Homepage.php">Home</a></li>
+                                            <li><a href="SearchAgency.php">Search Agency</a></li>
+                                            <li><a href="#"></a></li>
+                                            <!-- <li><a href="#">Blog</a>
+                                                <ul class="submenu">
+                                                    <li><a href="#">Blog</a></li>
+                                                    <li><a href="#">Blog Details</a></li>
+                                                </ul>
+                                            </li> -->
+                                            
+                                            <li><a href="Mybooking.php">My Booking</a></li>
+                                            <!-- <li><a href="#">Complaint</a> -->
+                                            <li><a href="#">Feedback</a>
+                                                <ul class="submenu">
+                                                    <li><a href="Complaint.php">Complaint</a></li>
+                                                    <li><a href="Feedback.php">Feedback</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#">Account</a>
+                                                <ul class="submenu">
+                                                    <li><a href="Myprofile.php">Profile</a></li>
+                                                    <li><a href="Myprofile.php">Logout</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <!-- Mobile Menu -->
+                            <div class="col-12">
+                                <div class="mobile_menu d-block d-lg-none"></div>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+       </div>
+        <!-- Header End -->
+    </header>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<footer>
+        <!-- Footer Start-->
+        <div class="footer-area footer-padding footer-bg" data-background="assets/img/service/footer_bg.jpg">
+            <div class="container">
+                <div class="row d-flex justify-content-between">
+                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-6">
+                       <div class="single-footer-caption mb-50">
+                         <div class="single-footer-caption mb-30">
+                              <!-- logo -->
+                             <div class="footer-logo">
+                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                             </div>
+                             <div class="footer-tittle">
+                                 <div class="footer-pera">
+                                     <p>Lorem iaspsum doldfor sit amvset, consectetur adipisicing cvelit csed do eiusmod tempor incididucvccnt ut labovre.</p>
+                                </div>
+                             </div>
+                         </div>
+                       </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-3 col-sm-5">
+                        <div class="single-footer-caption mb-50">
+                            <div class="footer-tittle">
+                                <h4>Quick Links</h4>
+                                <ul>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#"> Offers & Discounts</a></li>
+                                    <li><a href="#"> Get Coupon</a></li>
+                                    <li><a href="#">  Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
+                        <div class="single-footer-caption mb-50">
+                            <div class="footer-tittle">
+                                <h4>New Products</h4>
+                                <ul>
+                                    <li><a href="#">Woman Cloth</a></li>
+                                    <li><a href="#">Fashion Accessories</a></li>
+                                    <li><a href="#"> Man Accessories</a></li>
+                                    <li><a href="#"> Rubber made Toys</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
+                        <div class="single-footer-caption mb-50">
+                            <div class="footer-tittle">
+                                <h4>Support</h4>
+                                <ul>
+                                 <li><a href="#">Frequently Asked Questions</a></li>
+                                 <li><a href="#">Terms & Conditions</a></li>
+                                 <li><a href="#">Privacy Policy</a></li>
+                                 <li><a href="#">Privacy Policy</a></li>
+                                 <li><a href="#">Report a Payment Issue</a></li>
+                             </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer bottom -->
+                <div class="row pt-padding">
+                 <div class="col-xl-7 col-lg-7 col-md-7">
+                    <div class="footer-copy-right">
+                         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    </div>
+                 </div>
+                  <div class="col-xl-5 col-lg-5 col-md-5">
+                        <!-- social -->
+                        <div class="footer-social f-right">
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-behance"></i></a>
+                            <a href="#"><i class="fas fa-globe"></i></a>
+                        </div>
+                 </div>
+             </div>
+            </div>
+        </div>
+        <!-- Footer End-->
+    </footer>
+
+	<!-- JS here -->
+	
+		<!-- All JS Custom Plugins Link Here here -->
+        <script src="../Assets/Template/Main/./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+		
+		<!-- Jquery, Popper, Bootstrap -->
+		<script src="../Assets/Template/Main/./assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/popper.min.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/bootstrap.min.js"></script>
+	    <!-- Jquery Mobile Menu -->
+        <script src="../Assets/Template/Main/./assets/js/jquery.slicknav.min.js"></script>
+
+		<!-- Jquery Slick , Owl-Carousel Plugins -->
+        <script src="../Assets/Template/Main/./assets/js/owl.carousel.min.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/slick.min.js"></script>
+		<!-- One Page, Animated-HeadLin -->
+        <script src="../Assets/Template/Main/./assets/js/wow.min.js"></script>
+		<script src="../Assets/Template/Main/./assets/js/animated.headline.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/jquery.magnific-popup.js"></script>
+
+		<!-- Scrollup, nice-select, sticky -->
+        <script src="../Assets/Template/Main/./assets/js/jquery.scrollUp.min.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/jquery.nice-select.min.js"></script>
+		<script src="../Assets/Template/Main/./assets/js/jquery.sticky.js"></script>
+        
+        <!-- contact js -->
+        <script src="../Assets/Template/Main/./assets/js/contact.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/jquery.form.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/jquery.validate.min.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/mail-script.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/jquery.ajaxchimp.min.js"></script>
+        
+		<!-- Jquery Plugins, main Jquery -->	
+        <script src="../Assets/Template/Main/./assets/js/plugins.js"></script>
+        <script src="../Assets/Template/Main/./assets/js/main.js"></script>
+        
+    </body>
+</html>
+
